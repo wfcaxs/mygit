@@ -1,2 +1,4 @@
-Git is a version control system.
+heheda.
 Git is free software.
+
+what the fucking that.
